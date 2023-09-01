@@ -32,5 +32,6 @@ This Python script implements a simple Snake game using the Pygame library. In t
 
 2. Run the Python script to start the game.
 
-```bash
-python snake_game.py
+
+## Contact
+For any inquiries or feedback, feel free to reach out to [usman.the.coder@gmail.com].
