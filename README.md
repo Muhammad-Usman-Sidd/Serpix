@@ -7,7 +7,7 @@ This Python script implements a simple Snake game using the Pygame library. In t
 ## How to Play
 
 1. Clone the repository to your local machine.
-2. Run the `snake_game.py` script in your Python environment.
+2. Run the `serpix.py` script in your Python environment.
 3. Use the arrow keys to control the snake's movement.
 4. Eat the black food squares to increase your score.
 5. Avoid running into the screen edges or the snake's own body to prevent a game over.
